@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a passionate developer interested in **Conversational 
 - 🧠 **ML/DL Enthusiast**: Proficient in machine learning and deep learning techniques for NLP tasks
 - 🤖 **Agentic AI Developer**: Creating autonomous AI agents with reasoning and decision-making capabilities
 - 📚 **RAG Expert**: Implementing Retrieval-Augmented Generation systems for intelligent information retrieval
-- 💻 **Full-Stack Developer**: Experience with Python, web technologies, and data processing
 - 🎓 **Continuous Learner**: Always exploring new technologies and best practices in AI/ML
 - 🏢 **Industry Experience**: Worked on real-world chatbot implementations for business applications
 
@@ -59,6 +58,7 @@ Welcome to my GitHub! I'm a passionate developer interested in **Conversational 
 ![NLTK](https://img.shields.io/badge/NLTK-FF6F00?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 
 ### 🧠 Machine Learning & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -95,101 +95,6 @@ Welcome to my GitHub! I'm a passionate developer interested in **Conversational 
 
 </div>
 
-### 🎓 Core Competencies:
-
-#### **Natural Language Processing (NLP)**
-- Intent Classification & Entity Recognition
-- Named Entity Recognition (NER)
-- Sentiment Analysis
-- Text Tokenization & Lemmatization
-- Word Embeddings (Word2Vec, GloVe, FastText, Sentence Transformers)
-- Sequence-to-Sequence Models
-- Transformer-based Models (BERT, GPT, T5)
-- Semantic Similarity & Text Matching
-- Topic Modeling & Document Classification
-
-#### **Machine Learning**
-- Supervised Learning (Classification, Regression)
-- Unsupervised Learning (Clustering, Dimensionality Reduction)
-- Ensemble Methods (Random Forest, Gradient Boosting, XGBoost)
-- Feature Engineering & Selection
-- Model Evaluation & Validation
-- Hyperparameter Tuning
-- Cross-validation Techniques
-- Time Series Analysis & Forecasting
-
-#### **Deep Learning**
-- Neural Network Architectures (FNN, CNN, RNN, LSTM, GRU)
-- Transformer Architecture (BERT, GPT, T5, Vision Transformers)
-- Attention Mechanisms & Self-Attention
-- Transfer Learning & Fine-tuning
-- Fine-tuning Pre-trained Models
-- Word Embeddings & Dense Vector Representations
-- Sequence Modeling for NLP Tasks
-- Generative Models (VAE, GAN)
-
-#### **Large Language Models (LLMs) & Prompt Engineering**
-- LLM Fine-tuning (LoRA, QLoRA, Full Fine-tuning)
-- Prompt Engineering & Chain-of-Thought Prompting
-- Few-shot & Zero-shot Learning
-- Prompt Optimization & Tuning
-- LLM API Integration (OpenAI, Anthropic, Hugging Face)
-- Model Selection & Comparison
-- Cost Optimization for LLM APIs
-
-#### **Agentic AI & Autonomous Systems**
-- Agent Architecture Design
-- Tool/Function Calling & API Integration
-- Planning & Reasoning Frameworks
-- Memory Management (Short-term & Long-term)
-- Multi-step Task Decomposition
-- Agent Orchestration & Coordination
-- Reward Modeling & RLHF (Reinforcement Learning from Human Feedback)
-- Safety & Alignment for AI Agents
-- Autonomous Decision-Making
-- ReAct (Reasoning + Acting) Framework
-
-#### **Retrieval-Augmented Generation (RAG)**
-- Vector Embeddings & Semantic Search
-- Document Chunking & Preprocessing
-- Vector Database Management (Pinecone, FAISS, Chroma, Weaviate)
-- Retrieval Pipeline Design & Optimization
-- RAG-based Q&A Systems
-- Context-aware Information Retrieval
-- Hybrid Search (Semantic + Keyword)
-- Re-ranking & Relevance Scoring
-- Knowledge Graph Integration
-- Multi-hop Reasoning with Retrieved Context
-- RAG Evaluation & Metrics (Retrieval@K, MRR, NDCG)
-
-#### **Dialogue Systems & Conversational AI**
-- Dialogue Management & Policy Learning
-- Form-based Dialogue Flow
-- Multi-turn Conversation Handling
-- User Intent Understanding & Clarification
-- Response Generation & Ranking
-- Contextual Awareness in Conversations
-- User Simulation & Dialogue State Tracking
-- Dialogue Evaluation Metrics
-
-#### **Data Processing & ETL**
-- Data Cleaning & Preprocessing
-- CSV/JSON/YAML Data Transformation
-- Data Pipeline Automation
-- Feature Extraction from Raw Text
-- Data Augmentation Techniques
-- Stream Processing
-- Batch Processing Optimization
-
-#### **Business Logic Integration**
-- API Integration & RESTful Services
-- Database Design & Management (SQL, NoSQL)
-- Real-time Data Processing
-- Scalable System Architecture
-- Microservices Design
-- Message Queues (RabbitMQ, Kafka)
-
----
 
 ## 📈 What I Work On
 
@@ -263,26 +168,6 @@ Welcome to my GitHub! I'm a passionate developer interested in **Conversational 
 
 
 
-## 🎓 Learning Path & Certifications
-
-- ✅ Python Programming & Data Structures
-- ✅ Natural Language Processing Fundamentals
-- ✅ Machine Learning Algorithms & Applications
-- ✅ Deep Learning with TensorFlow/Keras
-- ✅ Rasa Framework & Dialogue Systems
-- ✅ Conversational AI Development
-- 🔄 Advanced NLU Techniques & Optimization
-- 🔄 Large Language Models & Transformers
-- 🔄 LLM Fine-tuning & Prompt Engineering
-- 🔄 Retrieval-Augmented Generation (RAG)
-- 🔄 Agentic AI & Autonomous Systems
-- ⏳ Reinforcement Learning for Dialogue
-- ⏳ Multi-agent AI Systems
-- ⏳ Production Deployment & MLOps
-- ⏳ Knowledge Graph Engineering
-
----
-
 ## 📊 Expertise Matrix
 
 ```
@@ -315,11 +200,6 @@ Data Science        ███████░░░ 70%
 - Agentic AI systems
 - Vector databases and semantic search
 
-🚀 **Focus on Production-Ready Systems**
-- Scalable deployments
-- Performance optimization
-- Cost-effective solutions
-- Robust error handling
 
 </div>
 
